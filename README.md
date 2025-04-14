@@ -2,4 +2,4 @@
 
 This is a demo application to showcase the integration of a KeyCloak server's OAuth2 authentication with a React JS application
 
-Read more in my blog post:
+Read more in my blog post: https://anushibin.wordpress.com/2025/04/14/keycloak-oauth2-react-js-integration/
